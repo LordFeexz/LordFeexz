@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-# resolusi# 💫 About Me:
+💫 About Me:
 
 const profile = () => {<br> const myName = Ananda_Fiqri<br> const birthDate = 01042003<br> const desc = `Passionate about creating scalable and maintainable code. <br> Skilled in database design and optimization. <br> Seeking an opportunity to use skills to build innovative web applications`<br> console.log(`<br> hello my name is ${myName},<br> my birthDate was at ${birthDate},<br> ${desc}<br> `)
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Ananda Fiqri](https://m.facebook.com/ananda.fiqri.5)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ananda_fiqri1403) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ananda-fiqri-38a550239) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@feexzz)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]((https://m.facebook.com/ananda.fiqri.5)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ananda_fiqri1403) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ananda-fiqri-38a550239) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@feexzz)
 
 # 💻 Tech Stack:
 
